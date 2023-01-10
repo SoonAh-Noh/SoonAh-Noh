@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&section=header&type=Waving&color=timeAuto&height=200&text=SoonAh's%20Profile&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?&section=header&type=Waving&color=timeAuto&height=200&text=I'm%20SoonAh%20Noh&fontSize=40&animation=fadeIn)
 
 <h2>🙌 Introduction 🙌</h2>
     <p>Hi, there👋</p>
@@ -28,6 +28,7 @@
 
 <h2>📝 Studying 📝</h2>
   <div align=left>
+    
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=FFFFFF">
@@ -60,7 +61,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoonAh-Noh&layout=compact">
     <br/><br/>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=timeAuto&height=300)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=timeAuto&height=200)
 
   
 
