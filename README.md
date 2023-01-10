@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <p>📞</p>
     <p>📭</p>
     <p>🌐Blog🌐</p>
-    <a href = "https://blog.naver.com/tns3968" target=”_blank”><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=FFFFFF"></a>
+    <a href = "https://blog.naver.com/tns3968" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=FFFFFF"></a>
   
   <h3>💻Tech Stack🛠💻</h3>
   <h4>📚Skills📚</h4>
