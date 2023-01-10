@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![header](https://capsule-render.vercel.app/api?section=header&type=egg&color=timeAuto)
+
 <div align=center>
-![header](https://capsule-render.vercel.app/api?type=egg&color=timeAuto&height=300&section=header&text=SoonAh-Noh&animation=fadeIn&fontSize=50&)
-
-
 
   
   <h3>🙌 Introduction 🙌</h3>
@@ -66,8 +66,9 @@ Here are some ideas to get you started:
 
 
 
-
-
-![footer](https://capsule-render.vercel.app/api?type=egg&color=timeAuto&height=300&section=footer)
-  
  </div>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=egg&color=timeAuto)
+
+  
+
