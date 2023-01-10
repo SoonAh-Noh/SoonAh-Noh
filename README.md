@@ -61,8 +61,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFFFFF">
   
   <h3>✨ GitHub Stats ✨</h3>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoonAh-Noh)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoonAh-Noh&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=SoonAh-Noh&show_icons=true">
 
 </div>
 
