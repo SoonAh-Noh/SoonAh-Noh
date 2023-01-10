@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <h3>🌐Blog🌐</h3>
     <a href = "https://blog.naver.com/tns3968" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=FFFFFF"></a>
   
-  <h3>💻Tech Stack🛠💻</h3>
+  <h3>💻Tech Stack💻</h3>
 <!-- 프로젝트 사용 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF">
