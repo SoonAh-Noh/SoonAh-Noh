@@ -27,20 +27,20 @@ Here are some ideas to get you started:
   <h4>Skills</h4>
   <h4>🛠️Tools🛠️</h4>
 <!--   <img src="https://img.shields.io/badge/아이콘이름-추천 색상?style=for-the-badge&logo=아이콘 이름&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=E34F26">
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=1572B6">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jQuery&logoColor=0769AD">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=4479A1">
-  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=SQLite&logoColor=003B57">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=339933">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=3776AB">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=Flask&logoColor=000000">
+  <img src="https://img.shields.io/badge/html5-333333?style=for-the-badge&logo=HTML5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/css3-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/javascript-333333?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/jquery-333333?style=for-the-badge&logo=jQuery&logoColor=0769AD">
+  <img src="https://img.shields.io/badge/react-333333?style=for-the-badge&logo=React&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/mysql-333333?style=for-the-badge&logo=MySQL&logoColor=4479A1">
+  <img src="https://img.shields.io/badge/sqlite-333333?style=for-the-badge&logo=SQLite&logoColor=003B57">
+  <img src="https://img.shields.io/badge/node.js-333333?style=for-the-badge&logo=Node.js&logoColor=339933">
+  <img src="https://img.shields.io/badge/python-333333?style=for-the-badge&logo=Python&logoColor=3776AB">
+  <img src="https://img.shields.io/badge/flask-333333?style=for-the-badge&logo=Flask&logoColor=000000">
 <!--  AI -->
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=F37626">
+  <img src="https://img.shields.io/badge/Jupyter-333333?style=for-the-badge&logo=Jupyter&logoColor=F37626">
  
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit_learn&logoColor=F7931E">
+  <img src="https://img.shields.io/badge/scikit_learn-333333?style=for-the-badge&logo=scikit_learn&logoColor=F7931E">
   
   
   
