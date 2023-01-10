@@ -68,4 +68,4 @@ Here are some ideas to get you started:
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=Slice&color=timeAuto&height=300&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=Slice&color=timeAuto&rotate=19.5&height=300&section=footer)
