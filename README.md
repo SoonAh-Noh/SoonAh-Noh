@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
  </div>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=timeAuto&height=300&&text=capsule%20render&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=timeAuto&height=300&&text=fin&fontSize=90)
 
   
 
