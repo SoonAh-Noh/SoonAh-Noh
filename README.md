@@ -22,7 +22,11 @@ Here are some ideas to get you started:
   <h3>🙌Introduction 🙌</h3>
     <p>안녕하세요. 노순아입니다.</p>
     <p>열정 가득한 신입개발자입니다.</p>
+    <p>📫 
   <h3>📚 Tech Stack 📚</h3>
   <h3>🛠️ Tools 🛠️</h3>
   
 </div>
+
+
+![Footer](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=200&section=footer)
