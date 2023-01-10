@@ -44,11 +44,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=FFFFFF">
 <!-- 딥러닝&머신러닝& -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=FFFFFF">
+  <br/>
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=TensorFlow&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=FFFFFF">
+
+
   
   
   <h4>🛠️Tools🛠️</h4>
