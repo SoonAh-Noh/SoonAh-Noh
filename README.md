@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 </div>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=Slice&reversal=true&color=timeAuto&height=300&section=footer)
