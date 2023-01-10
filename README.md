@@ -22,9 +22,7 @@ Here are some ideas to get you started:
   <h3>🙌Introduction🙌</h3>
     <p>안녕하세요. 노순아입니다.</p>
     <p>열정 가득한 신입개발자입니다.</p>
-    <p>📞</p>
-    <p>📭</p>
-    <p>🌐Blog🌐</p>
+    <h3>🌐Blog🌐</h3>
     <a href = "https://blog.naver.com/tns3968" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=FFFFFF"></a>
   
   <h3>💻Tech Stack🛠💻</h3>
@@ -52,7 +50,7 @@ Here are some ideas to get you started:
 
   
   
-  <h4>🛠️Tools🛠️</h4>
+  <h3>🛠️Tools🛠️</h3>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=FFFFFF">
   
