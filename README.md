@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <p>열정 가득한 신입개발자입니다.</p>
     <p>📫 
   <h3>🔭Tech Stack🔭</h3>
-  <h4>Skills</h4>
+  <h4>📚Skills📚</h4>
 <!-- 프로젝트 사용 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=333333">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=333333">
