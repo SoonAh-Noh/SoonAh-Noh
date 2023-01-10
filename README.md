@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=Slice&reversal=true&color=timeAuto&height=300&section=header&text=SoonAh-Noh&animation=fadeIn&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Slice&reversal=true&color=timeAuto&height=300&section=header&text=SoonAh-Noh&animation=fadeIn&fontSize=90&rotate=-30)
 
 
 ### Hi there 👋
