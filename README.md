@@ -26,7 +26,6 @@ Here are some ideas to get you started:
   <h3>Tech Stack🛠️</h3>
   <h4>Skills</h4>
   <h4>🛠️Tools🛠️</h4>
-  <img src="https://simpleicons.org/icons/javascript.svg?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/>
 
 </div>
 
