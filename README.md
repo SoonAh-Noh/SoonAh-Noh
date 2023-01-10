@@ -6,7 +6,6 @@
     <p>웹 언어와 인공지능을 공부 중 입니다.</p>
     <br/><br/>
 
-
 <h2>🌐 My Blog 🌐</h2>
     <a href = "https://blog.naver.com/tns3968" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=FFFFFF"></a>
     <br/><br/>
