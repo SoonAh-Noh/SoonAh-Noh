@@ -24,8 +24,8 @@ Here are some ideas to get you started:
     <p>열정 가득한 신입개발자입니다.</p>
     <p>📞</p>
     <p>📭</p>
-    <p>🌐 </p>
-    <img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=FFFFFF">
+    <p>🌐Blog🌐</p>
+    <a herf = "https://blog.naver.com/tns3968"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=FFFFFF"></a>
   
   <h3>💻Tech Stack🛠💻</h3>
   <h4>📚Skills📚</h4>
