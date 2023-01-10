@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?&section=header&type=Waving&color=timeAuto&height=200&text=I'm%20SoonAh%20Noh&fontSize=40&animation=fadeIn)
 
-<h2>🙌 Introduction 🙌</h2>
-    <p>Hi, there👋</p>
+<h2>👋 Introduction 👋</h2>
+    <p>안녕하세요 </p>
+    <p>개발자를 꿈꾸는 노순아입니다.</p>
+    <p>웹 언어와 인공지능을 공부 중 입니다.</p>
     <br/><br/>
 
 
@@ -33,9 +35,10 @@
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF">
     <br/>
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/YOLOv5-F7F7F7?style=for-the-badge&logo=YOLOv5&logoColor=F7F7F7">
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=TensorFlow&logoColor=FFFFFF">
     <br/><br/>
   </div>
