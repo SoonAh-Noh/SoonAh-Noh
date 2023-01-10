@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=Slice&reversal=true&color=timeAuto&height=300&section=header&text=SoonAh-Noh&animation=fadeIn&fontSize=90&rotate=-20)
 
 <div align=center>
-## Hi there 👋
+  <h2>Hi there 👋</h2>
+  <h3>🙌Introduction 🙌</h3>
+  <h3>📚 Tech Stack 📚</h3>
+  <h3>🛠️ Tools 🛠️</h3>
+  
 </div>
