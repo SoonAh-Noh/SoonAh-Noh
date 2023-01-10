@@ -65,5 +65,14 @@
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=timeAuto&height=200)
 
-  
+
+
+<!-- Readme Header 헤더, 푸터 이미지 -->
+<!-- https://github.com/kyechan99/capsule-render -->
+
+<!-- Readme Badge 스텍 뱃지 -->
+<!-- https://simpleicons.org/ -->
+
+<!-- Readme Widget 깃허브 통계  -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
