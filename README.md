@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <p>열정 가득한 신입개발자입니다.</p>
     <p>📫 
   <h3>🔭Tech Stack🔭</h3>
-  <h4>⚒Skills⚒</h4>
+  <h4>Skills</h4>
 <!-- 프로젝트 사용 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=333333">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=333333">
@@ -34,12 +34,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=333333">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=333333">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=333333">
-  
-<!-- 예시코드  -->
+<!-- 예시코드 -->
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=333333">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=333333">
-  
+<!-- 딥러닝&머신러닝& -->
   <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit_learn&logoColor=333333">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=333333">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=TensorFlow&logoColor=333333">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=333333">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=333333">
   
   
   <h4>🛠️Tools🛠️</h4>
