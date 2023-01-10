@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
+  
   <h3>🙌 Introduction 🙌</h3>
     <p>안녕하세요. 노순아입니다.</p>
     <p>열정 가득한 신입개발자입니다.</p>
@@ -63,5 +64,7 @@ Here are some ideas to get you started:
 
 </div>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ![Footer](https://capsule-render.vercel.app/api?type=Slice&color=timeAuto&height=300&section=footer)
