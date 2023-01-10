@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?section=header&type=egg&color=timeAuto)
+![header](https://capsule-render.vercel.app/api?section=header&type=egg&color=timeAuto&height=400)
 
 <div align=center>
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <!-- 딥러닝&머신러닝& -->
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=FFFFFF">
-  <br/>
+
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=TensorFlow&logoColor=FFFFFF">
@@ -61,14 +61,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFFFFF">
   
   <h3>✨ GitHub Stats ✨</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoonAh-Noh&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoonAh-Noh&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api?username=SoonAh-Noh&show_icons=true">
 
 
 
  </div>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=egg&color=timeAuto)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=egg&color=timeAuto&height=400)
 
   
 
