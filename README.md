@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <p>📞</p>
     <p>📭</p>
     <p>🌐 </p>
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver_Blog&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver Blog&logoColor=FFFFFF">
   
   <h3>💻Tech Stack🛠💻</h3>
   <h4>📚Skills📚</h4>
