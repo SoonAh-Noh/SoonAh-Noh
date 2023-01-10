@@ -23,13 +23,11 @@ Here are some ideas to get you started:
     <p>안녕하세요. 노순아입니다.</p>
     <p>열정 가득한 신입개발자입니다.</p>
     <p>📫 
-  <h3>🛠️Skills🛠️</h3>
-  <h4>Front-End</h4>
-  <img src="https://img.shields.io/badge?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/>
-  <h4>Back-End</h4>
-  <h4>Database & Server</h4>
-  <h4>AI</h4>
-  <h4>ETC</h4>
+  <h3>Tech Stack🛠️</h3>
+  <h4>Skills</h4>
+  <h4>🛠️Tools🛠️</h4>
+  <img src="https://simpleicons.org/icons/javascript.svg?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/>
+
 </div>
 
 
