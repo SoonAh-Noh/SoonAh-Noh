@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-  <h3>🙌Introduction🙌</h3>
+  <h3>🙌 Introduction 🙌</h3>
     <p>안녕하세요. 노순아입니다.</p>
     <p>열정 가득한 신입개발자입니다.</p>
-    <h3>🌐Blog🌐</h3>
+    <h3>🌐 Blog 🌐</h3>
     <a href = "https://blog.naver.com/tns3968" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=FFFFFF"></a>
   
-  <h3>💻Tech Stack💻</h3>
+  <h3>💻 Tech Stack 💻</h3>
 <!-- 프로젝트 사용 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF">
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=FFFFFF">
   <br/>
+  <h3>📝 Studying 📝</h3>
 <!-- 예시코드 -->
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=FFFFFF">
@@ -49,7 +50,7 @@ Here are some ideas to get you started:
 
   
   
-  <h3>🛠️Tools🛠️</h3>
+  <h3>🛠️ Tools 🛠️</h3>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=FFFFFF">
