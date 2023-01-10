@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?section=header&type=egg&color=timeAuto&height=400)
+![header](https://capsule-render.vercel.app/api?section=header&type=egg&color=timeAuto&height=300)
 
 <div align=center>
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
  </div>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=egg&color=timeAuto&height=400)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=egg&color=timeAuto&height=300)
 
   
 
