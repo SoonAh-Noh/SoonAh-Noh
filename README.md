@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?&section=header&type=Waving&color=timeAuto&height=200&text=SoonAh's%20Profile&fontSize=40&animation=fadeIn)
-
-<div align=center>
   
   <h2>🙌 Introduction 🙌</h2>
-    <p>안녕하세요. 노순아입니다.</p>
+    <p>Hi, there👋</p>
     <br/><br/>
   
   <h2>🌐 My Blog 🌐</h2>
@@ -50,8 +48,6 @@
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoonAh-Noh&layout=compact">
     <br/><br/>
-
- </div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=timeAuto&height=300)
 
