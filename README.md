@@ -12,6 +12,7 @@
 
 <h2>💻 Tech Stack 💻</h2>
   <!-- 프로젝트 사용 -->
+  <div align=left>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF">
@@ -22,22 +23,26 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=FFFFFF">
     <br/><br/>
+  </div>
 
 
 <h2>📝 Studying 📝</h2>
-    <!-- 예시코드 -->
+  <div align=left>
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=FFFFFF">
-    <!-- 딥러닝&머신러닝& -->
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF">
+    <br/>
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=TensorFlow&logoColor=FFFFFF">
     <br/><br/>
+  </div>
     
     
 <h2>🛠️ Tools 🛠️</h2>
+  <div align=left>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=FFFFFF">
@@ -46,6 +51,7 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFFFFF">
     <br/><br/>
+  </div>
   
  
 <h2>✨ GitHub Stats ✨</h2>
