@@ -1,14 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?&section=header&type=Waving&color=timeAuto&height=200&text=SoonAh's%20Profile&fontSize=40&animation=fadeIn)
-  
-  <h2>🙌 Introduction 🙌</h2>
+
+<h2>🙌 Introduction 🙌</h2>
     <p>Hi, there👋</p>
     <br/><br/>
-  
-  <h2>🌐 My Blog 🌐</h2>
+
+
+<h2>🌐 My Blog 🌐</h2>
     <a href = "https://blog.naver.com/tns3968" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=FFFFFF"></a>
     <br/><br/>
- 
-  <h2>💻 Tech Stack 💻</h2>
+
+
+<h2>💻 Tech Stack 💻</h2>
   <!-- 프로젝트 사용 -->
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF">
@@ -20,8 +22,9 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=FFFFFF">
     <br/><br/>
-  
-  <h2>📝 Studying 📝</h2>
+
+
+<h2>📝 Studying 📝</h2>
     <!-- 예시코드 -->
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=FFFFFF">
@@ -32,8 +35,9 @@
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=TensorFlow&logoColor=FFFFFF">
     <br/><br/>
- 
-  <h2>🛠️ Tools 🛠️</h2>
+    
+    
+<h2>🛠️ Tools 🛠️</h2>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=FFFFFF">
@@ -43,7 +47,8 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFFFFF">
     <br/><br/>
   
-  <h2>✨ GitHub Stats ✨</h2>
+ 
+<h2>✨ GitHub Stats ✨</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=SoonAh-Noh&show_icons=true">
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoonAh-Noh&layout=compact">
