@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?&section=header&type=slice&color=timeAuto&height=300&text=capsule%20render&fontSize=90&animation=fadeIn)
 
 <div align=center>
 
