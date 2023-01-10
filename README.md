@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <h3>Tech Stack🛠️</h3>
   <h4>Skills</h4>
   <h4>🛠️Tools🛠️</h4>
-  <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/>
+  <img src="https://img.shields.io/badge/javascript.svg-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/>
 
 </div>
 
