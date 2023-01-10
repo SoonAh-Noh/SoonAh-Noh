@@ -29,6 +29,7 @@
 
 <h2>📝 Studying 📝</h2>
   <div align=left>
+    <img src="https://img.shields.io/badge/java-DB380E?style=for-the-badge&logo=java&logoColor=DB380E">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=FFFFFF">
