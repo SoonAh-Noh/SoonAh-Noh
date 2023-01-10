@@ -1,13 +1,12 @@
-![header](https://capsule-render.vercel.app/api?&section=header&type=Waving&color=timeAuto&height=300&text=Hi👋&fontSize=40&animation=fadeIn&&fontAlign=70&fontAlignY=20)
+![header](https://capsule-render.vercel.app/api?&section=header&type=Waving&color=timeAuto&height=200&text=SoonAh's%20Profile&fontSize=40&animation=fadeIn)
 
 <div align=center>
   
   <h2>🙌 Introduction 🙌</h2>
     <p>안녕하세요. 노순아입니다.</p>
-    <p>열정 가득한 신입개발자입니다.</p>
     <br/><br/>
   
-  <h2>🌐 Blog 🌐</h2>
+  <h2>🌐 My Blog 🌐</h2>
     <a href = "https://blog.naver.com/tns3968" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=FFFFFF"></a>
     <br/><br/>
  
